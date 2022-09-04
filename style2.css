@@ -1,0 +1,37 @@
+
+
+
+.name{
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+    color:rgb(6, 12, 73) ;
+    font-family: 'Times New Roman', Times, serif;
+    font: bolder;
+}
+.about-us-text ul li{
+    list-style: none;
+}
+.event-img-area{
+
+    padding: 10px;
+
+}
+.button{
+    background: #fe5b10;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    display: block;
+    margin: auto;
+    width: 150px;
+    border-radius: 27px;
+    margin: 20px auto;
+    transition: .9s all;
+    text-transform: capitalize;
+    
+}
+.button:hover {
+    background: rgb(225, 169, 0);
+    transition: .9s all;
+}
